@@ -1,6 +1,6 @@
 | No | Week | Date                  | Work                                                                 | Thành viên thực hiện     | Tiến trình |
 |----|------|-----------------------|----------------------------------------------------------------------|--------------------------|------------|
-| 1  | 1    | 04/08/2025-05/08/2025 | Đăng ký nhóm, GV giao đề án                                          | Duy, Nam, Sơn, Hùng      | 100%       |
+| 1  | 1    | 04/08/2025-05/08/2025 | Đăng ký nhóm, GV giao đề án                                          | Duy,https://github.com/ducnam-dev, Sơn, Hùng      | 100%       |
 | 2  | 1    | 05/08/2025-08/08/2025 | Lên kế hoạch ban đầu thực hiện                                       | Duy                      | 100%       |
 | 3  | 1    | 08/08/2025-09/08/2025 | Phân chia vai trò các thành viên trong nhóm                          | Duy, Nam, Sơn, Hùng      | 100%       |
 | 4  | 1    | 09/08/2025-11/08/2025 | Tìm hiểu các hệ thống tương tự (hệ thống đặt vé tại ga Metro)        | Duy, Nam, Sơn, Hùng      | 100%       |
